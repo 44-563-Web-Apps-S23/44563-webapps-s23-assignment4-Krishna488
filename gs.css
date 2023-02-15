@@ -1,0 +1,32 @@
+.speech
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+}
+.direction
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 12px;
+    background-color: rgb(0, 102, 255);
+}
+.direction:hover {
+    background-color: rgb(94, 153, 153);
+    color: rgba(128, 128, 128, 0.584);
+  }
+.imp
+{   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(226, 43, 43);
+}
+.judge
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(112, 140, 216);
+}
+.poorman
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(161, 216, 112);
+}
