@@ -45,3 +45,21 @@ table {
   tr:nth-child(even) {
     background-color: #3300ff;
   }
+.imp:hover {
+    background-color: rgb(212, 0, 255);
+    color: rgb(177, 18, 18);
+    border-style: double;
+    border-left: 10px solid rgb(110, 40, 36);
+    }
+.poorman:hover {
+    background-color: rgb(98, 255, 0);
+    color: rgb(0, 148, 239);
+    border-style: double;
+    border-left: 10px solid rgb(0, 225, 255);
+    }
+.judge:hover {
+        background-color: rgb(98, 255, 0);
+        color: rgb(0, 148, 239);
+        border-style: double;
+        border-left: 10px solid rgb(0, 225, 255);
+        }
