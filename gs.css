@@ -63,3 +63,28 @@ table {
         border-style: double;
         border-left: 10px solid rgb(0, 225, 255);
         }
+
+        
+ul.navbar-horizontal 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li 
+{
+    float:left; 
+    color:#000;
+    background-color: #0400ff
+}
+ul.navbar-horizontal a 
+{
+    display:block;
+    padding:8px
+}
+ul.navbar-horizontal a:hover 
+{  
+    background-color: #ff00d0;
+    color:white;
+}
+    
